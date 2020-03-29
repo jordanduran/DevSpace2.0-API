@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jordan123:jordan123@devspace-paylj.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jordan123:jordan123@devspace-paylj.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
